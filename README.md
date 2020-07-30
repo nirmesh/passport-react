@@ -1,11 +1,6 @@
 ## Passport React
 
-Finished project for the youtube tutorial series @ https://www.youtube.com/watch?v=A23O4aUftXk
-
-This project is a mock app that allows you to use OAuth2 login authentication with some 
-of your favorite socials including Facebook, Instagram, Google, Twitch, Github, and Amazon.
-
-Login with your account and explore your data in the Mac terminal inspired UI!
+just create applications in respective social networking sites and get client id and secret, and you should be good to go.
 
 ## How to Run
 
